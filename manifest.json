@@ -1,0 +1,15 @@
+{
+	"chrome_url_overrides": {
+		"newtab": "ntp.html"
+	},
+	"description": "Empty New Tab Page shows a blank, Black page, rather than the chrome default",
+	"manifest_version": 3,
+	"name": "Empty New Tab Page - Black",
+	"icons": {
+		"128": "empty-new-page-black.png",
+		"16": "empty-new-page-black.png",
+		"32": "empty-new-page-black.png",
+		"48": "empty-new-page-black.png"
+	},
+	"version": "2.0"
+}
